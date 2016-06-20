@@ -1,0 +1,45 @@
+Abbreviation,Time zone name,Offset.standard,Offset.daylight
+ADT,Atlantic Daylight Time,-3:00:00,NA
+HAA,Atlantic Daylight Time,-3:00:00,NA
+AKDT,Alaska Daylight Time,-8:00:00,NA
+AKST,Alaska Standard Time,-9:00:00,NA
+AST,Atlantic Standard Time,-4:00:00,NA
+HNA,Atlantic Standard Time,-4:00:00,NA
+AT,Atlantic Time,-4:00:00,-3:00:00
+CDT,Central Daylight Time,-5:00:00,NA
+HAC,Central Daylight Time,-5:00:00,NA
+CST,Central Standard Time,-6:00:00,NA
+HNC,Central Standard Time,-6:00:00,NA
+CT,Central Time,-6:00:00,-5:00:00
+EDT,Eastern Daylight Time,-4:00:00,NA
+HAE,Eastern Daylight Time,-4:00:00,NA
+EGST,Eastern Greenland Summer Time,+0:00:00,NA
+EGT,East Greenland Time,-1:00:00,NA
+EST,Eastern Standard Time,-5:00:00,NA
+HNE,Eastern Standard Time,-5:00:00,NA
+ET,Eastern Time,-5:00:00,-4:00:00
+GMT,Greenwich Mean Time,+0:00:00,NA
+UTC,Greenwich Mean Time,+0:00:00,NA
+GST,South Georgia Standard Time,-2:00:00,NA
+HADT,Hawaii-Aleutian Daylight Time,-9:00:00,NA
+HAST,Hawaii-Aleutian Standard Time,-10:00:00,NA
+HST,Hawaii-Aleutian Standard Time,-10:00:00,NA
+MDT,Mountain Daylight Time,-6:00:00,NA
+HAR,Mountain Daylight Time,-6:00:00,NA
+MST,Mountain Standard Time,-7:00:00,NA
+HNR,Mountain Standard Time,-7:00:00,NA
+MT,Mountain Time,-7:00:00,-6:00:00
+NDT,Newfoundland Daylight Time,-2:30:00,NA
+HAT,Newfoundland Daylight Time,-2:30:00,NA
+NST,Newfoundland Standard Time,-3:30:00,NA
+HNT,Newfoundland Standard Time,-3:30:00,NA
+PDT,Pacific Daylight Time,-7:00:00,NA
+HAP,Pacific Daylight Time,-7:00:00,NA
+PMDT,Pierre & Miquelon Daylight Time,-2:00:00,NA
+PMST,Pierre & Miquelon Standard Time,-3:00:00,NA
+PST,Pacific Standard Time,-8:00:00,NA
+HNP,Pacific Standard Time,-8:00:00,NA
+PT,Pacific Time,-8:00:00,-7:00:00
+SST,Samoa Standard Time,-10:00:00,NA
+WGST,Western Greenland Summer Time,-2:00:00,NA
+WGT,West Greenland Time,-3:00:00,NA
